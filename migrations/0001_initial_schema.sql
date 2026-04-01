@@ -1,0 +1,2 @@
+-- Initial placeholder migration for future logging tables.
+-- Add CREATE TABLE statements here as data models are introduced.
